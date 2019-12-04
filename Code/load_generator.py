@@ -20,6 +20,6 @@ def plt_img(gen, r=2, c=4):
     return
 
 
-for i in range(1, 18):
-    gen = load_model('gan_generator_%d_v2.h5' % (5000*i))
+for i in range(2, 5):
+    gen = load_model('gan_generator_%d_v2.h5' % (10000*i))
     plt_img(gen, 2, 4)
