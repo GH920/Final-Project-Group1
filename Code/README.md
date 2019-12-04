@@ -14,5 +14,7 @@ The GAN based on MLP are inside the code.
 ### CGAN
 Run Dog_CGAN_v1.py
 ### Load Generator
+First, you need to change the h5 file name at the bottom. 
+
 Run load_generator.py to recall the generator from DCGAN/GAN.  
 Run load_generator_CGAN.py to recall the generator from CGAN.
