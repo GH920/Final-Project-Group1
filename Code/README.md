@@ -12,7 +12,7 @@ Run Data_vis.py will show a bar chart about dog breeds.
 Run Dog_GAN_v4.py  
 The GAN based on MLP are inside the code.
 ### CGAN
-Run Dog_CGAN_v1.py
+Run Dog_CGAN.py
 ### Load Generator
 First, you need to change the h5 file name at the bottom. 
 
