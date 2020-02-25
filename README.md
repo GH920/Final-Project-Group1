@@ -3,7 +3,7 @@ This project comes from a Kaggle Competiton named <a href="https://www.kaggle.co
 Data is based on the <a href="http://vision.stanford.edu/aditya86/ImageNetDogs/">Stanford Dogs Dataset</a>. 
 <br><br>
 ## Team
-Authors: Gaofeng Huang, Jun Ying, Xi Zhang. Final project of the course Machine Learning II (by Prof. Amir).
+Authors: Gaofeng Huang, Jun Ying, Xi Zhang. Final project of the course Machine Learning II (by Prof. Amir Jafari).
 <br><br>
 
 ## GAN Method
